@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/keerthipalliboyina/LeetCode/tree/master/0007-reverse-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthipalliboyina/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [3830-find-closest-person](https://github.com/keerthipalliboyina/LeetCode/tree/master/3830-find-closest-person) |
 ## Linked List
 |  |
 | ------- |
