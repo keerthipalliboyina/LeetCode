@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/keerthipalliboyina/LeetCode/tree/master/0141-linked-list-cycle) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthipalliboyina/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## String
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthipalliboyina/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthipalliboyina/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
