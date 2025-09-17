@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthipalliboyina/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/keerthipalliboyina/LeetCode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
