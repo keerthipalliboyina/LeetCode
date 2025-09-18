@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0001-two-sum) |
+| [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
 | [1115-valid-boomerang](https://github.com/keerthipalliboyina/LeetCode/tree/master/1115-valid-boomerang) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthipalliboyina/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/keerthipalliboyina/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Geometry
 |  |
@@ -65,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/keerthipalliboyina/LeetCode/tree/master/0177-nth-highest-salary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
