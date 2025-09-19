@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0001-two-sum) |
+| [0414-third-maximum-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/keerthipalliboyina/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/keerthipalliboyina/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/keerthipalliboyina/LeetCode/tree/master/0575-distribute-candies) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/keerthipalliboyina/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/keerthipalliboyina/LeetCode/tree/master/0561-array-partition) |
 ## Counting Sort
