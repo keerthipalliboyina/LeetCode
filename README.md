@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/keerthipalliboyina/LeetCode/tree/master/0575-distribute-candies) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
 | [1115-valid-boomerang](https://github.com/keerthipalliboyina/LeetCode/tree/master/1115-valid-boomerang) |
+| [1137-height-checker](https://github.com/keerthipalliboyina/LeetCode/tree/master/1137-height-checker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthipalliboyina/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
@@ -96,10 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/keerthipalliboyina/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/keerthipalliboyina/LeetCode/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/keerthipalliboyina/LeetCode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/keerthipalliboyina/LeetCode/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/keerthipalliboyina/LeetCode/tree/master/1137-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
