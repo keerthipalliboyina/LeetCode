@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/keerthipalliboyina/LeetCode/tree/master/0007-reverse-integer) |
+| [0412-fizz-buzz](https://github.com/keerthipalliboyina/LeetCode/tree/master/0412-fizz-buzz) |
 | [1086-divisor-game](https://github.com/keerthipalliboyina/LeetCode/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/keerthipalliboyina/LeetCode/tree/master/1115-valid-boomerang) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthipalliboyina/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/keerthipalliboyina/LeetCode/tree/master/0412-fizz-buzz) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthipalliboyina/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/keerthipalliboyina/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
 ## Greedy
 |  |
