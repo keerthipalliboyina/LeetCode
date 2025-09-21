@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/keerthipalliboyina/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/keerthipalliboyina/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
+| [0941-sort-array-by-parity](https://github.com/keerthipalliboyina/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1115-valid-boomerang](https://github.com/keerthipalliboyina/LeetCode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/keerthipalliboyina/LeetCode/tree/master/1137-height-checker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthipalliboyina/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/keerthipalliboyina/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Geometry
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/keerthipalliboyina/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/keerthipalliboyina/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/keerthipalliboyina/LeetCode/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/keerthipalliboyina/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/keerthipalliboyina/LeetCode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
