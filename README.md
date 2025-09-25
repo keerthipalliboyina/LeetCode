@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthipalliboyina/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1791-richest-customer-wealth](https://github.com/keerthipalliboyina/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/keerthipalliboyina/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/keerthipalliboyina/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/keerthipalliboyina/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/keerthipalliboyina/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthipalliboyina/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/keerthipalliboyina/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/keerthipalliboyina/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/keerthipalliboyina/LeetCode/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/keerthipalliboyina/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting Sort
 |  |
 | ------- |
