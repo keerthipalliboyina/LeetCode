@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/keerthipalliboyina/LeetCode/tree/master/0041-first-missing-positive) |
 | [0287-find-the-duplicate-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/keerthipalliboyina/LeetCode/tree/master/0506-relative-ranks) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/keerthipalliboyina/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/keerthipalliboyina/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0575-distribute-candies](https://github.com/keerthipalliboyina/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/keerthipalliboyina/LeetCode/tree/master/0645-set-mismatch) |
