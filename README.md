@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/keerthipalliboyina/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthipalliboyina/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/keerthipalliboyina/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/keerthipalliboyina/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
 | ------- |
