@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthipalliboyina/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/keerthipalliboyina/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/keerthipalliboyina/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/keerthipalliboyina/LeetCode/tree/master/1086-divisor-game) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/keerthipalliboyina/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Matrix
 |  |
 | ------- |
