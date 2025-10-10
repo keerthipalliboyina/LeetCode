@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/keerthipalliboyina/LeetCode/tree/master/0177-nth-highest-salary) |
+| [0197-rising-temperature](https://github.com/keerthipalliboyina/LeetCode/tree/master/0197-rising-temperature) |
 | [1161-project-employees-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/1161-project-employees-i) |
 | [1541-top-travellers](https://github.com/keerthipalliboyina/LeetCode/tree/master/1541-top-travellers) |
 ## Bit Manipulation
