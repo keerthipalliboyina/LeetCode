@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/keerthipalliboyina/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1646-kth-missing-positive-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/keerthipalliboyina/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthipalliboyina/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/keerthipalliboyina/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthipalliboyina/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/keerthipalliboyina/LeetCode/tree/master/1500-count-largest-group) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/keerthipalliboyina/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3830-find-closest-person](https://github.com/keerthipalliboyina/LeetCode/tree/master/3830-find-closest-person) |
 ## Linked List
 |  |
