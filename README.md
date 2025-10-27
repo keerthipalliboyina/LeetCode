@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/keerthipalliboyina/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3830-find-closest-person](https://github.com/keerthipalliboyina/LeetCode/tree/master/3830-find-closest-person) |
+| [3859-maximum-product-of-two-digits](https://github.com/keerthipalliboyina/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/keerthipalliboyina/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthipalliboyina/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3859-maximum-product-of-two-digits](https://github.com/keerthipalliboyina/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting Sort
 |  |
