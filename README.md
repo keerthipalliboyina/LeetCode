@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/keerthipalliboyina/LeetCode/tree/master/1500-count-largest-group) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/keerthipalliboyina/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/keerthipalliboyina/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/keerthipalliboyina/LeetCode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/keerthipalliboyina/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Linked List
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/keerthipalliboyina/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/keerthipalliboyina/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Matrix
 |  |
