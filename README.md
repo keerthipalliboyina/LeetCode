@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/keerthipalliboyina/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthipalliboyina/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/keerthipalliboyina/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
