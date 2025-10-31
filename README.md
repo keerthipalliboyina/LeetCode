@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/keerthipalliboyina/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2737-row-with-maximum-ones](https://github.com/keerthipalliboyina/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3221-find-the-peaks](https://github.com/keerthipalliboyina/LeetCode/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/keerthipalliboyina/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/keerthipalliboyina/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/keerthipalliboyina/LeetCode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
