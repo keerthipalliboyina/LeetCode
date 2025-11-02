@@ -1,14 +1,12 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-       Arrays.sort(nums);
-       int index=0;
-       for(int i=1;i <nums.length;i++){
-        if (nums[index] != nums[i]){
-           index++;
+        HashSet<Integer> set = new HashSet<>();
+
+        for(int i=0;i<nums.length; i++){
+            if(!set.add(nums[i])){
+                return true;
+            }
         }
-        else
-        return true;
-       }
-       return false ;
-  
-  }  } 
+        return false;
+    }
+}
