@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/keerthipalliboyina/LeetCode/tree/master/0041-first-missing-positive) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthipalliboyina/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/keerthipalliboyina/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/keerthipalliboyina/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthipalliboyina/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1086-divisor-game](https://github.com/keerthipalliboyina/LeetCode/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
