@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/keerthipalliboyina/LeetCode/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/keerthipalliboyina/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthipalliboyina/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/keerthipalliboyina/LeetCode/tree/master/0217-contains-duplicate) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/keerthipalliboyina/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/keerthipalliboyina/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/keerthipalliboyina/LeetCode/tree/master/0412-fizz-buzz) |
