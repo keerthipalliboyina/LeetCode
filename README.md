@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/keerthipalliboyina/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/keerthipalliboyina/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/keerthipalliboyina/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keerthipalliboyina/LeetCode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/keerthipalliboyina/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/keerthipalliboyina/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/keerthipalliboyina/LeetCode/tree/master/0441-arranging-coins) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/keerthipalliboyina/LeetCode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/keerthipalliboyina/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
