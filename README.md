@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/keerthipalliboyina/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/keerthipalliboyina/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/keerthipalliboyina/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0263-ugly-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/keerthipalliboyina/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthipalliboyina/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1086-divisor-game](https://github.com/keerthipalliboyina/LeetCode/tree/master/1086-divisor-game) |
 ## Brainteaser
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/keerthipalliboyina/LeetCode/tree/master/3221-find-the-peaks) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/keerthipalliboyina/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
