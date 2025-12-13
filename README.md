@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/keerthipalliboyina/LeetCode/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/keerthipalliboyina/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/keerthipalliboyina/LeetCode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/keerthipalliboyina/LeetCode/tree/master/0182-duplicate-emails) |
