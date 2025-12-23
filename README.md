@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/keerthipalliboyina/LeetCode/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/keerthipalliboyina/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/keerthipalliboyina/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3745-maximize-expression-of-three-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/keerthipalliboyina/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/keerthipalliboyina/LeetCode/tree/master/0561-array-partition) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/keerthipalliboyina/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthipalliboyina/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/keerthipalliboyina/LeetCode/tree/master/2974-minimum-number-game) |
+| [3745-maximize-expression-of-three-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/keerthipalliboyina/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting Sort
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/keerthipalliboyina/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3221-find-the-peaks](https://github.com/keerthipalliboyina/LeetCode/tree/master/3221-find-the-peaks) |
+| [3745-maximize-expression-of-three-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Memoization
 |  |
 | ------- |
