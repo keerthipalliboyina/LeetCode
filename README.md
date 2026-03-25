@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthipalliboyina/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/keerthipalliboyina/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/keerthipalliboyina/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/keerthipalliboyina/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthipalliboyina/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/keerthipalliboyina/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/keerthipalliboyina/LeetCode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/keerthipalliboyina/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1086-divisor-game](https://github.com/keerthipalliboyina/LeetCode/tree/master/1086-divisor-game) |
