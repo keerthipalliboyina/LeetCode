@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/keerthipalliboyina/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/keerthipalliboyina/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/keerthipalliboyina/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0287-find-the-duplicate-number) |
