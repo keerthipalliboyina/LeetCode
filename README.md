@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/keerthipalliboyina/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/keerthipalliboyina/LeetCode/tree/master/0412-fizz-buzz) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/keerthipalliboyina/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthipalliboyina/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/keerthipalliboyina/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/keerthipalliboyina/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
