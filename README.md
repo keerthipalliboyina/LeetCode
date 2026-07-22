@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/keerthipalliboyina/LeetCode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/keerthipalliboyina/LeetCode/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/keerthipalliboyina/LeetCode/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/keerthipalliboyina/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/keerthipalliboyina/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/keerthipalliboyina/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/keerthipalliboyina/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/keerthipalliboyina/LeetCode/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/keerthipalliboyina/LeetCode/tree/master/0705-design-hashset) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/keerthipalliboyina/LeetCode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0707-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -446,5 +449,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/keerthipalliboyina/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/keerthipalliboyina/LeetCode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0707-design-linked-list) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/keerthipalliboyina/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
