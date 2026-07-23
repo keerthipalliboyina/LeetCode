@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/keerthipalliboyina/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0898-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/keerthipalliboyina/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-monotonic-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/keerthipalliboyina/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/keerthipalliboyina/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/keerthipalliboyina/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/keerthipalliboyina/LeetCode/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/keerthipalliboyina/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/keerthipalliboyina/LeetCode/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0912-sort-an-array) |
 | [1137-height-checker](https://github.com/keerthipalliboyina/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/keerthipalliboyina/LeetCode/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/keerthipalliboyina/LeetCode/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/keerthipalliboyina/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/keerthipalliboyina/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/keerthipalliboyina/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/keerthipalliboyina/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## String Matching
 |  |
@@ -465,4 +470,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/keerthipalliboyina/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/keerthipalliboyina/LeetCode/tree/master/0706-design-hashmap) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
