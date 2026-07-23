@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/keerthipalliboyina/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/keerthipalliboyina/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2698-find-the-array-concatenation-value](https://github.com/keerthipalliboyina/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 ## Geometry
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/keerthipalliboyina/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/keerthipalliboyina/LeetCode/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1768-merge-strings-alternately](https://github.com/keerthipalliboyina/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/keerthipalliboyina/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/keerthipalliboyina/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
