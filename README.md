@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/keerthipalliboyina/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/keerthipalliboyina/LeetCode/tree/master/0027-remove-element) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/keerthipalliboyina/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/keerthipalliboyina/LeetCode/tree/master/0027-remove-element) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/keerthipalliboyina/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/keerthipalliboyina/LeetCode/tree/master/0561-array-partition) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
