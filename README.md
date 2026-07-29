@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/keerthipalliboyina/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/keerthipalliboyina/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/keerthipalliboyina/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0898-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/keerthipalliboyina/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/keerthipalliboyina/LeetCode/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/keerthipalliboyina/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/keerthipalliboyina/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/keerthipalliboyina/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/keerthipalliboyina/LeetCode/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/keerthipalliboyina/LeetCode/tree/master/0881-boats-to-save-people) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/keerthipalliboyina/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/keerthipalliboyina/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/keerthipalliboyina/LeetCode/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/keerthipalliboyina/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/keerthipalliboyina/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
