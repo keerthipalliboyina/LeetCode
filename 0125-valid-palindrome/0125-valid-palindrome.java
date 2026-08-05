@@ -10,8 +10,8 @@ class Solution {
             }
             i++;
             j--;
-                
         }
         return true;
+        
     }
 }
