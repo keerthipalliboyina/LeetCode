@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/keerthipalliboyina/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/keerthipalliboyina/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/keerthipalliboyina/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/keerthipalliboyina/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/keerthipalliboyina/LeetCode/tree/master/0053-maximum-subarray) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthipalliboyina/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/keerthipalliboyina/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/keerthipalliboyina/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/keerthipalliboyina/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/keerthipalliboyina/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/keerthipalliboyina/LeetCode/tree/master/0036-valid-sudoku) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/keerthipalliboyina/LeetCode/tree/master/1791-richest-customer-wealth) |
