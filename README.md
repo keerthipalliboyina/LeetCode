@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/keerthipalliboyina/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/keerthipalliboyina/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/keerthipalliboyina/LeetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/keerthipalliboyina/LeetCode/tree/master/0705-design-hashset) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/keerthipalliboyina/LeetCode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/keerthipalliboyina/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/keerthipalliboyina/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/keerthipalliboyina/LeetCode/tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/keerthipalliboyina/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthipalliboyina/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/keerthipalliboyina/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/keerthipalliboyina/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
