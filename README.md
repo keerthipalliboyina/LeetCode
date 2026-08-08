@@ -557,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0229-majority-element-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
