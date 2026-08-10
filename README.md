@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/keerthipalliboyina/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/keerthipalliboyina/LeetCode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/keerthipalliboyina/LeetCode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keerthipalliboyina/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/keerthipalliboyina/LeetCode/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/keerthipalliboyina/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/keerthipalliboyina/LeetCode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/keerthipalliboyina/LeetCode/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -586,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keerthipalliboyina/LeetCode/tree/master/0022-generate-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/keerthipalliboyina/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
