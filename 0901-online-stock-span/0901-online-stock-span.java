@@ -1,23 +1,23 @@
 class StockSpanner {
-    Stack<Integer> prices=new Stack<>();
     Stack<Integer> span=new Stack<>();
+    Stack<Integer> prices=new Stack<>();
     public StockSpanner() {
         
     }
     
     public int next(int price) {
-            int poppedCount=1;
-            while(!prices.isEmpty()  && price>=prices.peek())
-            {
-                prices.pop();
-                poppedCount+=span.pop();
-            }
-            prices.push(price);
-            span.push(poppedCount);
+        int poppedCount=1;
+        while(!prices.isEmpty() && prices.peek()<=price)
+        {
+            prices.pop();
+            poppedCount+=span.pop();
 
-            return poppedCount;
+        }
+        prices.push(price);
+        span.push(poppedCount);
+
+        return poppedCount;
     }
-        
 }
 
 /**
