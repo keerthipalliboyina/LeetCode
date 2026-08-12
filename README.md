@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/keerthipalliboyina/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/keerthipalliboyina/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/keerthipalliboyina/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/keerthipalliboyina/LeetCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/keerthipalliboyina/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/keerthipalliboyina/LeetCode/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/keerthipalliboyina/LeetCode/tree/master/0853-car-fleet) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/keerthipalliboyina/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/keerthipalliboyina/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/keerthipalliboyina/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/keerthipalliboyina/LeetCode/tree/master/0853-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/keerthipalliboyina/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/keerthipalliboyina/LeetCode/tree/master/0901-online-stock-span) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/keerthipalliboyina/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/keerthipalliboyina/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/keerthipalliboyina/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/keerthipalliboyina/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/keerthipalliboyina/LeetCode/tree/master/0901-online-stock-span) |
 ## Trie
