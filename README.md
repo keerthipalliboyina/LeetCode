@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/keerthipalliboyina/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/keerthipalliboyina/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1115-valid-boomerang](https://github.com/keerthipalliboyina/LeetCode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/keerthipalliboyina/LeetCode/tree/master/1137-height-checker) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/keerthipalliboyina/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/keerthipalliboyina/LeetCode/tree/master/0792-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/keerthipalliboyina/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/keerthipalliboyina/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
