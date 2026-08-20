@@ -23,6 +23,7 @@ class Solution {
         list.addAll(postorderTraversal(root.left));
         list.addAll(postorderTraversal(root.right));
         list.add(root.val);
+
         return list;
     }
 }
