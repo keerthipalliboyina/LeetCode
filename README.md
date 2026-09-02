@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/keerthipalliboyina/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3745-maximize-expression-of-three-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/keerthipalliboyina/LeetCode/tree/master/4012-earliest-time-to-finish-one-task) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/keerthipalliboyina/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/keerthipalliboyina/LeetCode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/keerthipalliboyina/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
 | ------- |
