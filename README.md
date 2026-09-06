@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/keerthipalliboyina/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/keerthipalliboyina/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/keerthipalliboyina/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/keerthipalliboyina/LeetCode/tree/master/0075-sort-colors) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/keerthipalliboyina/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/keerthipalliboyina/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/keerthipalliboyina/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/keerthipalliboyina/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/keerthipalliboyina/LeetCode/tree/master/0735-asteroid-collision) |
