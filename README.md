@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/keerthipalliboyina/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/keerthipalliboyina/LeetCode/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/keerthipalliboyina/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/keerthipalliboyina/LeetCode/tree/master/0441-arranging-coins) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/keerthipalliboyina/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/keerthipalliboyina/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0394-decode-string) |
 ## String
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/keerthipalliboyina/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/keerthipalliboyina/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/keerthipalliboyina/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/keerthipalliboyina/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/keerthipalliboyina/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/keerthipalliboyina/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keerthipalliboyina/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/keerthipalliboyina/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/keerthipalliboyina/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/keerthipalliboyina/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/keerthipalliboyina/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/keerthipalliboyina/LeetCode/tree/master/0234-palindrome-linked-list) |
