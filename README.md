@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keerthipalliboyina/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/keerthipalliboyina/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2235-add-two-integers](https://github.com/keerthipalliboyina/LeetCode/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/keerthipalliboyina/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
