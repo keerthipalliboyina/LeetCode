@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/keerthipalliboyina/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/keerthipalliboyina/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthipalliboyina/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/keerthipalliboyina/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keerthipalliboyina/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/keerthipalliboyina/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/keerthipalliboyina/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/keerthipalliboyina/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/keerthipalliboyina/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
