@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/keerthipalliboyina/LeetCode/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/keerthipalliboyina/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/keerthipalliboyina/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/keerthipalliboyina/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3745-maximize-expression-of-three-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/keerthipalliboyina/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/keerthipalliboyina/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/keerthipalliboyina/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keerthipalliboyina/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/keerthipalliboyina/LeetCode/tree/master/0881-boats-to-save-people) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/keerthipalliboyina/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3745-maximize-expression-of-three-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
