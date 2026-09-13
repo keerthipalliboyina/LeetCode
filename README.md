@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/keerthipalliboyina/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/keerthipalliboyina/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/keerthipalliboyina/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keerthipalliboyina/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keerthipalliboyina/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/keerthipalliboyina/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0861-flipping-an-image](https://github.com/keerthipalliboyina/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0898-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/keerthipalliboyina/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/keerthipalliboyina/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2737-row-with-maximum-ones](https://github.com/keerthipalliboyina/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
