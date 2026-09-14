@@ -17,15 +17,14 @@ class Solution {
         }
         for(int i=s1.length();i<s2.length();i++)
         {
-            freq2[s2.charAt(i)-'a']++;
-
             freq2[s2.charAt(i-s1.length())-'a']--;
-
+            freq2[s2.charAt(i)-'a']++;
             if(Arrays.equals(freq1,freq2))
             {
                 return true;
             }
         }
         return false;
+
     }
 }
