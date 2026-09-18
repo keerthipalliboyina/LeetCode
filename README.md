@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/keerthipalliboyina/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/keerthipalliboyina/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/keerthipalliboyina/LeetCode/tree/master/1046-last-stone-weight) |
 | [1115-valid-boomerang](https://github.com/keerthipalliboyina/LeetCode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/keerthipalliboyina/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/1217-relative-sort-array) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keerthipalliboyina/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/keerthipalliboyina/LeetCode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/keerthipalliboyina/LeetCode/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/keerthipalliboyina/LeetCode/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
