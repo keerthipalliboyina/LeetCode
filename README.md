@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/keerthipalliboyina/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/keerthipalliboyina/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/keerthipalliboyina/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/keerthipalliboyina/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/keerthipalliboyina/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/keerthipalliboyina/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/keerthipalliboyina/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/keerthipalliboyina/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/keerthipalliboyina/LeetCode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/keerthipalliboyina/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/keerthipalliboyina/LeetCode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keerthipalliboyina/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Data Stream
@@ -776,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/keerthipalliboyina/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/keerthipalliboyina/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
