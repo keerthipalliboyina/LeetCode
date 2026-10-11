@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/keerthipalliboyina/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2737-row-with-maximum-ones](https://github.com/keerthipalliboyina/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/keerthipalliboyina/LeetCode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/keerthipalliboyina/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/keerthipalliboyina/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/keerthipalliboyina/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/keerthipalliboyina/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/keerthipalliboyina/LeetCode/tree/master/3221-find-the-peaks) |
 | [3745-maximize-expression-of-three-elements](https://github.com/keerthipalliboyina/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Memoization
